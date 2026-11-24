@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t">
+  <title id="t">nakk / inakacloud.com</title>
+  <rect width="1200" height="300" rx="16" fill="#12303a"/>
+  <g fill="none" stroke="#3f7f86" stroke-width="3">
+    <path d="M870 150H930M1010 150H1040V95H1070M1040 150V205H1070"/>
+  </g>
+  <g fill="#1c4652" stroke="#7cc4b8" stroke-width="3">
+    <circle cx="840" cy="150" r="30"/>
+    <rect x="930" y="115" width="80" height="70" rx="10"/>
+    <rect x="1070" y="65" width="70" height="60" rx="10"/>
+    <rect x="1070" y="175" width="70" height="60" rx="10"/>
+  </g>
+  <g font-family="'Segoe UI','Hiragino Sans','Noto Sans JP',sans-serif">
+    <text x="80" y="140" font-size="76" font-weight="700" fill="#f4f7f5">nakk</text>
+    <text x="80" y="195" font-size="30" fill="#b9d8d2">OCI を中心としたクラウドの検証</text>
+    <text x="80" y="240" font-size="24" fill="#7cc4b8">inakacloud.com</text>
+  </g>
+</svg>
